@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "283dec43062e8545",
+        "id": "991d4470eb07bdbf",
         "type": "tabs",
         "children": [
           {
-            "id": "c28cfda1d4ac96dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cfc8d140ea76a60f",
+            "id": "bd0aa000e2c2b6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -155,9 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8aa0a9cc6a16f874",
+  "active": "bd0aa000e2c2b6fe",
   "lastOpenFiles": [
-    "attachment",
-    "README.md"
+    "README.md",
+    "attachment"
   ]
 }
