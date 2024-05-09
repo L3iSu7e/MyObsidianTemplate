@@ -48,3 +48,28 @@
 - 地址：https://github.com/reorx/obsidian-paste-image-rename
 
 
+### Style Settings
+部分主题可能需要这个插件才能完美显示
+- 地址：https://github.com/mgmeyers/obsidian-style-settings
+
+### File Explorer Count
+显示该文件夹下的笔记数量
+- 地址：https://github.com/ozntel/file-explorer-note-count
+
+### Lapel
+显示标题等级
+- 地址：https://github.com/liamcain/obsidian-lapel
+
+
+### Templater
+模板增强
+- 地址：https://github.com/SilentVoid13/Templater
+
+### better Export PDF
+完善官方导出无书签的问题，并且可以自定义大小
+- 地址：https://github.com/l1xnan/obsidian-better-export-pdf
+
+### Another Quick Switcher
+快速检索、切换窗口的工具
+- 地址：https://github.com/tadashi-aikawa/obsidian-another-quick-switcher
+
